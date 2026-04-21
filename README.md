@@ -36,10 +36,25 @@ Smart healthcare management system for appointments, patient records, doctors da
 ---
 
 ## ✨ Motto
-🚀  Turning Ideas Into Smart Digital Solutions!
 
+🚀 Turning Ideas Into Smart Digital Solutions
 
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aroojkhan22&show_icons=true&theme=radical)
+## 🛠 Skills & Tech Stack
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aroojkhan22&layout=compact&theme=radical)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,mysql,git,vscode" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aroojkhan22&theme=radical&hide_border=true)
+
+---
+
+## 👀 Visitor Count
+
+![](https://komarev.com/ghpvc/?username=aroojkhan22&color=ff69b4&style=for-the-badge)
