@@ -36,7 +36,8 @@ Smart healthcare management system for appointments, patient records, doctors da
 ---
 ## 📄 Resume
 
-[⬇ Download My Resume](./Arooj-Khan-Resume.pdf)
+📌 [View Resume](./Arooj-Khan-Resume.pdf)  
+📥 [Download Resume](./Arooj-Khan-Resume.pdf)
 
 
 ## ✨ Motto
