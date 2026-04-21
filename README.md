@@ -1,9 +1,9 @@
 # Hi, I'm Arooj Khan 👋
 
-💻 Frontend Developer  
-📊 Data Scientist   
-🤖 ML & AI Enthusiast
-  🚀 Building Modern Web Apps  
+🖥️ Frontend Developer  
+📊 Data Scientist  
+🤖 ML & AI Enthusiast  
+🚀 Building Modern Web Apps  
 📚 BSCS Student
 
 ---
