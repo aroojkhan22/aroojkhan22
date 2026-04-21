@@ -38,3 +38,6 @@ Smart healthcare management system for appointments, patient records, doctors da
 ## ✨ Motto
 
 Design. Build. Analyze. Improve.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aroojkhan22&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aroojkhan22&layout=compact&theme=radical)
