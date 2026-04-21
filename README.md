@@ -60,6 +60,8 @@ Smart healthcare management system for appointments, patient records, doctors da
 
 ---
 
+![trophy](https://github-profile-trophy.vercel.app/?username=aroojkhan22)
+
 ## 👀 Visitor Count
 
 ![](https://komarev.com/ghpvc/?username=aroojkhan22&color=ff69b4&style=for-the-badge)
