@@ -34,6 +34,10 @@ Smart healthcare management system for appointments, patient records, doctors da
 💼 LinkedIn: [Arooj Khan](https://www.linkedin.com/in/arooj-khan-6248413b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
+## 📄 Resume
+
+[⬇ Download My Resume](./Arooj-Khan-Resume.pdf)
+
 
 ## ✨ Motto
 
