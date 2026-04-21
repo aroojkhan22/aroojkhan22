@@ -3,7 +3,7 @@
 💻 Frontend Developer  
 📊 Data Scientist   
 🤖 ML & AI Enthusiast
-🚀 Building Modern Web Apps  
+  🚀 Building Modern Web Apps  
 📚 BSCS Student
 
 ---
