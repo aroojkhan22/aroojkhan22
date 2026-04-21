@@ -13,6 +13,11 @@
 HTML • CSS • JavaScript • React • Node.js • Python • MongoDB • SQL • Oracle APEX • Data Analysis • Machine Learning
 
 ---
+## 📄 Resume
+
+📌 [View Resume](./Arooj-Khan-Resume.pdf)  
+📥 [Download Resume](./Arooj-Khan-Resume.pdf)
+
 
 ## 🚀 Featured Projects
 
@@ -34,11 +39,6 @@ Smart healthcare management system for appointments, patient records, doctors da
 💼 LinkedIn: [Arooj Khan](https://www.linkedin.com/in/arooj-khan-6248413b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
-## 📄 Resume
-
-📌 [View Resume](./Arooj-Khan-Resume.pdf)  
-📥 [Download Resume](./Arooj-Khan-Resume.pdf)
-
 
 ## ✨ Motto
 
