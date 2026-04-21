@@ -60,7 +60,6 @@ Smart healthcare management system for appointments, patient records, doctors da
 
 ---
 
-![trophy](https://github-profile-trophy.vercel.app/?username=aroojkhan22)
 
 ## 👀 Visitor Count
 
